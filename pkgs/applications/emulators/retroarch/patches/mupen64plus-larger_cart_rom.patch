@@ -1,7 +1,7 @@
 diff --git a/src/device/cart/cart_rom.c b/src/device/cart/cart_rom.c
 index 86657df1..64233b75 100644
---- a/src/device/cart/cart_rom.c
-+++ b/src/device/cart/cart_rom.c
+--- a/mupen64plus-core/src/device/cart/cart_rom.c
++++ b/mupen64plus-core/src/device/cart/cart_rom.c
 @@ -32,7 +32,7 @@
  #define __STDC_FORMAT_MACROS
  #include <inttypes.h>
